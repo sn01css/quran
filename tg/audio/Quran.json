@@ -1,0 +1,1379 @@
+[
+{
+  "file_id": null,
+  "file_unique_id": null,
+  "duration": null,
+  "performer": null,
+  "title": null,
+  "file_name": null,
+  "mime_type": null,
+  "file_size": null,
+  "source": "https://itsolutionctg.com/quran/"
+},{
+  "file_id": "CQACAgQAAxkBAAICWWV1HIXjyNmmu-w-hZg5xfwMHrv7AAJ3BAACO_OkU7rllNX6g71QMwQ",
+  "file_unique_id": "AgADdwQAAjvzpFM",
+  "duration": 51,
+  "performer": null,
+  "title": null,
+  "file_name": "001-al-fatihah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 207920,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICWmV1HIVxpsFumdfKS0jlVC_GmfkKAAJKLAACwCOhU2CN8wTUF9QHMwQ",
+  "file_unique_id": "AgADSiwAAsAjoVM",
+  "duration": 7577,
+  "performer": null,
+  "title": null,
+  "file_name": "002_al_baqarah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 30304064,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICW2V1HIVR5lTITwhi0cUC0syayWvwAAKpBAAC6NCsUy-tKqeyaf9zMwQ",
+  "file_unique_id": "AgADqQQAAujQrFM",
+  "duration": 4725,
+  "performer": null,
+  "title": null,
+  "file_name": "003-al-imran.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 18901712,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICXGV1HIVqhVVIWgUOX5qBkMxX0_CWAAKCBAADSK1TQLJYtPK2gaEzBA",
+  "file_unique_id": "AgADggQAA0itUw",
+  "duration": 4797,
+  "performer": null,
+  "title": null,
+  "file_name": "004-an-nisa.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 19189424,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICXWV1HIUHq1seKAAB3t03E_y3E9X3tgACuAQAAr0OrVOp6_EekWk91DME",
+  "file_unique_id": "AgADuAQAAr0OrVM",
+  "duration": 3781,
+  "performer": null,
+  "title": null,
+  "file_name": "005-al-maidah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 15126176,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICXmV1HIVk5FarTrMQeG4GuC3zYH8tAAKaBAACx4ytUxt9iNH5k2PoMwQ",
+  "file_unique_id": "AgADmgQAAseMrVM",
+  "duration": 4350,
+  "performer": null,
+  "title": null,
+  "file_name": "006-al-anam.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 17400656,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICX2V1HIUlW_QEV5MCb0lpnnh4oD9KAALHBAACCdOtU-0jm1A0yGYwMwQ",
+  "file_unique_id": "AgADxwQAAgnTrVM",
+  "duration": 4995,
+  "performer": null,
+  "title": null,
+  "file_name": "007-al-araf.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 19980704,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICYGV1HIWSdzLBD5s6wJr3hzJrn5RUAAJrBAACiMOtU7xH3dD7KCTUMwQ",
+  "file_unique_id": "AgADawQAAojDrVM",
+  "duration": 1838,
+  "performer": null,
+  "title": null,
+  "file_name": "008-al-anfal.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 7352480,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICYWV1HIXde0X2GVdM-olmM4uqpDYIAALWBAAC4BulU47YX6SYQjZPMwQ",
+  "file_unique_id": "AgAD1gQAAuAbpVM",
+  "duration": 3624,
+  "performer": null,
+  "title": null,
+  "file_name": "009-at-taubah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 14498624,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICYmV1HIUy-nqYhq4fo7k0cJhe5I6bAAKQBAACNEClU2HXipNQlJiIMwQ",
+  "file_unique_id": "AgADkAQAAjRApVM",
+  "duration": 2712,
+  "performer": null,
+  "title": null,
+  "file_name": "010-yunus.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 10850960,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICY2V1HIV2RqECBIZwq4BCiZHq4StjAALmBAACs2itU8nBWR-9OOeQMwQ",
+  "file_unique_id": "AgAD5gQAArNorVM",
+  "duration": 2785,
+  "performer": null,
+  "title": null,
+  "file_name": "011-hud.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 11143424,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICZGV1HIXK-hxMtqOcpbm02f7gXPJyAAKtBAACa7qkU893_L2EK4EGMwQ",
+  "file_unique_id": "AgADrQQAAmu6pFM",
+  "duration": 2525,
+  "performer": null,
+  "title": null,
+  "file_name": "012-yusuf.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 10100288,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICZWV1HIUJP4b1nH0eT8Ov2ahkGIscAAKbBAACWn2sU70rO48nc6rqMwQ",
+  "file_unique_id": "AgADmwQAAlp9rFM",
+  "duration": 1230,
+  "performer": null,
+  "title": null,
+  "file_name": "013-ar-rad.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4923776,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICZmV1HIV5Th4RjeLqXtW1C8JhdjiiAAKdBAACBgylUx7qdm5uKOxpMwQ",
+  "file_unique_id": "AgADnQQAAgYMpVM",
+  "duration": 1227,
+  "performer": null,
+  "title": null,
+  "file_name": "014-ibrahim.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4909520,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICZ2V1HIXd8kmCs6rLpXk6ewqQaq0qAAL6BAACjXWsUyWK2oXKWSCMMwQ",
+  "file_unique_id": "AgAD-gQAAo11rFM",
+  "duration": 954,
+  "performer": null,
+  "title": null,
+  "file_name": "015-al-hijr.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 3819296,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICaGV1HIUMMwMi5Nzgty13WUHnwX1oAALKBAACsZylU_IpSQLBamrYMwQ",
+  "file_unique_id": "AgADygQAArGcpVM",
+  "duration": 2543,
+  "performer": null,
+  "title": null,
+  "file_name": "016-an-nahl.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 10174448,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICaWV1HIU4pfRd29xoNNZKQKztTjdDAAKoBAAC3iWsU9AqI4STZ9puMwQ",
+  "file_unique_id": "AgADqAQAAt4lrFM",
+  "duration": 1997,
+  "performer": null,
+  "title": null,
+  "file_name": "017-al-isra.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 7988528,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICamV1HIXCSmiXGZJxyTTmts4IP8n8AAKWBAACPaWtUzCemr_OYnciMwQ",
+  "file_unique_id": "AgADlgQAAj2lrVM",
+  "duration": 2010,
+  "performer": null,
+  "title": null,
+  "file_name": "018-al-kahf.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 8041088,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICa2V1HIWZOzTFN0UHINXhcR_jRf9IAALYBAACN2qkU_metEhOTrY8MwQ",
+  "file_unique_id": "AgAD2AQAAjdqpFM",
+  "duration": 1282,
+  "performer": null,
+  "title": null,
+  "file_name": "019-maryam.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 5131280,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICbGV1HIXO1AuTt3cn8A-imjz6C8UNAAKJBAACEjGkU1hVIX9OzconMwQ",
+  "file_unique_id": "AgADiQQAAhIxpFM",
+  "duration": 1627,
+  "performer": null,
+  "title": null,
+  "file_name": "020-ta-ha.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 6511232,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICbWV1HIVwQH1dS7MalRV62Di9juv8AALJBAACO1CsU35dudSJkUNTMwQ",
+  "file_unique_id": "AgADyQQAAjtQrFM",
+  "duration": 1584,
+  "performer": null,
+  "title": null,
+  "file_name": "021-al-anbiya.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 6339008,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICbmV1HIVS4AXpHc8yKkkmWjjt4aSoAAKvBAAC_rWkU43XxcbNkL6WMwQ",
+  "file_unique_id": "AgADrwQAAv61pFM",
+  "duration": 1772,
+  "performer": null,
+  "title": null,
+  "file_name": "022-al-hajj.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 7089968,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICb2V1HIW065QF69Vikxl4j8h2Tjr6AAKqBAAC-42kUzVP3kg2qGHxMwQ",
+  "file_unique_id": "AgADqgQAAvuNpFM",
+  "duration": 1499,
+  "performer": null,
+  "title": null,
+  "file_name": "023-al-muminun.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 5999600,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICcGV1HIU9lmUwXbWiarlD8hzgAYtKAAK3BAACyGSsU5AuHFcEGmt6MwQ",
+  "file_unique_id": "AgADtwQAAshkrFM",
+  "duration": 1840,
+  "performer": null,
+  "title": null,
+  "file_name": "024-an-nur.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 7362416,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICcWV1HIUoFrXhXdlyjL0q9q_VAWRoAAKRBAAC5RSlUyMsdyfSjma0MwQ",
+  "file_unique_id": "AgADkQQAAuUUpVM",
+  "duration": 1101,
+  "performer": null,
+  "title": null,
+  "file_name": "025-al-furqan.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4406528,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICcmV1HIUJiSRQTpi0eZaC8f9mbnHIAAKrBAAClCatUxketC3K7aWdMwQ",
+  "file_unique_id": "AgADqwQAApQmrVM",
+  "duration": 1847,
+  "performer": null,
+  "title": null,
+  "file_name": "026-ash-shuara.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 7388336,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICc2V1HIUtBKNmDMkvRg5_WKpjPddBAAKqBAAC_BulU0W7Ai_jC8EtMwQ",
+  "file_unique_id": "AgADqgQAAvwbpVM",
+  "duration": 1572,
+  "performer": null,
+  "title": null,
+  "file_name": "027-an-naml.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 6288608,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICdGV1HIU65GB2IUs8ZJlkqRbnJ1i8AAJ_BAACR5WsUz2xPALGP2ByMwQ",
+  "file_unique_id": "AgADfwQAAkeVrFM",
+  "duration": 1903,
+  "performer": null,
+  "title": null,
+  "file_name": "028-al-qasas.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 7615424,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICdWV1HIVroFZWpPNFY1FARLrxyQT7AALMBAACR0ekU5Y4k9aGAAGXxzME",
+  "file_unique_id": "AgADzAQAAkdHpFM",
+  "duration": 1285,
+  "performer": null,
+  "title": null,
+  "file_name": "029-al-ankabut.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 5141936,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICdmV1HIUbp2Osntx546fVFC3RFpSSAALKBAACdwABpVPNT-GYh3PtBzME",
+  "file_unique_id": "AgADygQAAncAAaVT",
+  "duration": 1171,
+  "performer": null,
+  "title": null,
+  "file_name": "030-ar-rum.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4684448,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICd2V1HIU38da3ikUitF0JJpDRg0WQAAJRBAACmtesU2mCqiC0CCJ5MwQ",
+  "file_unique_id": "AgADUQQAAprXrFM",
+  "duration": 715,
+  "performer": null,
+  "title": null,
+  "file_name": "031-luqman.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2860544,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICeGV1HIVAYyk9T1DJeyJLYokkLqcwAAKkBAACdnasU1x4s5IpHIU3MwQ",
+  "file_unique_id": "AgADpAQAAnZ2rFM",
+  "duration": 524,
+  "performer": null,
+  "title": null,
+  "file_name": "032-as-sajdah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2096192,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICeWV1HIVPhQe2fJiN9-bi6EL7eS8XAAKSBAACYwGsU-uEKtMWYC1uMwQ",
+  "file_unique_id": "AgADkgQAAmMBrFM",
+  "duration": 1757,
+  "performer": null,
+  "title": null,
+  "file_name": "033-al-ahzab.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 7028768,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICemV1HIV8g8JIlt90XLkaJqtJCgyQAAKQBAACzuWsUzRCzKY6mMxnMwQ",
+  "file_unique_id": "AgADkAQAAs7lrFM",
+  "duration": 1142,
+  "performer": null,
+  "title": null,
+  "file_name": "034-saba.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4571408,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICe2V1HIUf_v_XcoO0c_1Hq8vIoVv9AAKsBAACjV2tUxNA69YYvsMtMwQ",
+  "file_unique_id": "AgADrAQAAo1drVM",
+  "duration": 1056,
+  "performer": null,
+  "title": null,
+  "file_name": "035-fatir.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4227536,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICfGV1HIUz6pzegXsncvEG86vG6D08AAKIBAAC2SqtUyCtws9ij3xGMwQ",
+  "file_unique_id": "AgADiAQAAtkqrVM",
+  "duration": 1059,
+  "performer": null,
+  "title": null,
+  "file_name": "036-ya-sin.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4239488,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICfWV1HIX22w_fT_uNXDqCkq-NSf2NAALsBAACCBOkU-eq5um_v7aoMwQ",
+  "file_unique_id": "AgAD7AQAAggTpFM",
+  "duration": 1464,
+  "performer": null,
+  "title": null,
+  "file_name": "037-as-saffat.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 5856608,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICfmV1HIUs9mitxC6_HYWNXc6ZqPioAAKABAACt2CkUwtEJpu0f_N7MwQ",
+  "file_unique_id": "AgADgAQAArdgpFM",
+  "duration": 1069,
+  "performer": null,
+  "title": null,
+  "file_name": "038-sad.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4278944,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICf2V1HIW6fqr5vTjAqLKpVsz_Kc21AAKbBAACGXGkU9EO6hydF7SWMwQ",
+  "file_unique_id": "AgADmwQAAhlxpFM",
+  "duration": 1629,
+  "performer": null,
+  "title": null,
+  "file_name": "039-az-zumar.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 6519152,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICgGV1HIUvoOvV0mpOwUXyzHXmLziOAAKsBAACug-lU4iDnj1hQHopMwQ",
+  "file_unique_id": "AgADrAQAAroPpVM",
+  "duration": 1582,
+  "performer": null,
+  "title": null,
+  "file_name": "040-ghafir.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 6328928,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICgWV1HIWNkuXdwKGNRf8zwaYxMDn9AAK2BAAC0VClU7ueJM_yAZybMwQ",
+  "file_unique_id": "AgADtgQAAtFQpVM",
+  "duration": 1160,
+  "performer": null,
+  "title": null,
+  "file_name": "041-fussilat.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4641824,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICgmV1HIUdhjJRSdtnbVIs0YXm9h6mAALTBAACCZGlU2WenOogsCwZMwQ",
+  "file_unique_id": "AgAD0wQAAgmRpVM",
+  "duration": 1169,
+  "performer": null,
+  "title": null,
+  "file_name": "042-ash-shura.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4679264,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICg2V1HIX_ehQYQSBQDlMcKnYMcnSHAAKmBAACcLisU2pOJ20BqXiVMwQ",
+  "file_unique_id": "AgADpgQAAnC4rFM",
+  "duration": 1228,
+  "performer": null,
+  "title": null,
+  "file_name": "043-az-zukhruf.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 4913408,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIChGV1HIWx_FLSBpAK4d_BQK9Ku0K_AALUBAACiMulUwK5dW8lMM_7MwQ",
+  "file_unique_id": "AgAD1AQAAojLpVM",
+  "duration": 591,
+  "performer": null,
+  "title": null,
+  "file_name": "044-ad-dukhan.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2365616,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIChWV1HIUQBsnKWrFuUD5QFXrkfhiTAAKoBAAC-BGtU_HD4FVO9wMnMwQ",
+  "file_unique_id": "AgADqAQAAvgRrVM",
+  "duration": 650,
+  "performer": null,
+  "title": null,
+  "file_name": "045-al-jathiyah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2601920,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIChmV1HIX-zrKZxXHAu160RgHpJN32AAJ-BAACqy-tUxOuOaOdnL9oMwQ",
+  "file_unique_id": "AgADfgQAAqsvrVM",
+  "duration": 957,
+  "performer": null,
+  "title": null,
+  "file_name": "046-al-ahqaf.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 3829952,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICh2V1HIXaDQ_9-f1qZ_B54FPDI9HkAALrBAACzxqkU_QoKA7GwKL4MwQ",
+  "file_unique_id": "AgAD6wQAAs8apFM",
+  "duration": 737,
+  "performer": null,
+  "title": null,
+  "file_name": "047-muhammad.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2951696,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICiGV1HIXXGemrwudPV_xW8kWRo1H9AAKYBAACU2OkU9z0fl2IfpeAMwQ",
+  "file_unique_id": "AgADmAQAAlNjpFM",
+  "duration": 721,
+  "performer": null,
+  "title": null,
+  "file_name": "048-al-fath.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2886464,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICiWV1HIWgJHVFOpWa_qYwpy79H0P2AAKnBAACQCOtU--G0C9fzhujMwQ",
+  "file_unique_id": "AgADpwQAAkAjrVM",
+  "duration": 515,
+  "performer": null,
+  "title": null,
+  "file_name": "049-al-hujurat.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2062208,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICimV1HIWiNmxiIGt1wkmaiEnxMwmMAAKXBAAC8s2tU9yLOp4gIzLuMwQ",
+  "file_unique_id": "AgADlwQAAvLNrVM",
+  "duration": 559,
+  "performer": null,
+  "title": null,
+  "file_name": "050-qaf.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2239616,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICi2V1HIWRaYZW6lcgdGmotkA0ucN7AAKIBAACxt2tU_hzWwmaEgV6MwQ",
+  "file_unique_id": "AgADiAQAAsbdrVM",
+  "duration": 544,
+  "performer": null,
+  "title": null,
+  "file_name": "051-adh-dhariyat.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2178848,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICjGV1HIWjC8p45q04PxCeqBaQwJIZAALpBAAC89GlU4WA7gPGiJanMwQ",
+  "file_unique_id": "AgAD6QQAAvPRpVM",
+  "duration": 485,
+  "performer": null,
+  "title": null,
+  "file_name": "052-at-tur.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1941536,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICjWV1HIXdoB_RimJIG5iVIzFQeSPxAALRBAACJGitUxsuxS_lZ3J1MwQ",
+  "file_unique_id": "AgAD0QQAAiRorVM",
+  "duration": 461,
+  "performer": null,
+  "title": null,
+  "file_name": "053-an-najm.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1845920,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICjmV1HIXYqdqD3d03R0nG80hoGcXEAALWBAACQaKkU2F4_OVC0auQMwQ",
+  "file_unique_id": "AgAD1gQAAkGipFM",
+  "duration": 482,
+  "performer": null,
+  "title": null,
+  "file_name": "054-al-qamar.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1930880,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICj2V1HIV3vdGtBo1f9_Al9l3lAAESQwACaQQAAjzcpVN2oyoi5qIBfjME",
+  "file_unique_id": "AgADaQQAAjzcpVM",
+  "duration": 679,
+  "performer": null,
+  "title": null,
+  "file_name": "055-ar-rahman.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2716832,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICkGV1HIUQFMXa8DfKj11FWvt2GCroAAK0BAACmqesU401knh6YECjMwQ",
+  "file_unique_id": "AgADtAQAApqnrFM",
+  "duration": 716,
+  "performer": null,
+  "title": null,
+  "file_name": "056-al-waqiah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2868032,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICkWV1HIVXz1oi_1BmyrjsKgPGmn0gAALhBAACTkqlU5BbKSWaRZX1MwQ",
+  "file_unique_id": "AgAD4QQAAk5KpVM",
+  "duration": 822,
+  "performer": null,
+  "title": null,
+  "file_name": "057-al-hadid.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 3291968,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICkmV1HIUb7GbuS7yNm48Ej7Ct1HPnAAIHBQACxiCsU4QpgCs6VobhMwQ",
+  "file_unique_id": "AgADBwUAAsYgrFM",
+  "duration": 613,
+  "performer": null,
+  "title": null,
+  "file_name": "058-al-mujadilah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2453312,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICk2V1HIW8Fyu4Xed16HzxaCcPs07uAAK_BAACH4SkU_Z5xF9od7kHMwQ",
+  "file_unique_id": "AgADvwQAAh-EpFM",
+  "duration": 626,
+  "performer": null,
+  "title": null,
+  "file_name": "059-al-hashr.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 2506304,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIClGV1HIVQqMSoJTWoKHdKZF_hWpilAAL8BAACUF-kU5CATPB1nx1dMwQ",
+  "file_unique_id": "AgAD_AQAAlBfpFM",
+  "duration": 451,
+  "performer": null,
+  "title": null,
+  "file_name": "060-al-mumtahanah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1806176,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIClWV1HIUVmxi4fHr_MvzgTSxiP3pyAAK8BAAC5IKlUwiXg7_l8E9FMwQ",
+  "file_unique_id": "AgADvAQAAuSCpVM",
+  "duration": 292,
+  "performer": null,
+  "title": null,
+  "file_name": "061-as-saff.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1171136,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIClmV1HIV8DgAByGuKPnvUm6D8-K4p8QACZQQAAudWrFPtN6Gh-PkIMjME",
+  "file_unique_id": "AgADZQQAAudWrFM",
+  "duration": 213,
+  "performer": null,
+  "title": null,
+  "file_name": "062-al-jumuah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 854768,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICl2V1HIVZfnpYAdD8jONpWYaAe3XPAAKyBAACDCKsUwmv-eS2vElzMwQ",
+  "file_unique_id": "AgADsgQAAgwirFM",
+  "duration": 258,
+  "performer": null,
+  "title": null,
+  "file_name": "063-al-munafiqun.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1033328,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICmGV1HIWE33fuA0nwkBKmhPsTnMt7AAJvBAACx9SsU8sl5avodBrdMwQ",
+  "file_unique_id": "AgADbwQAAsfUrFM",
+  "duration": 324,
+  "performer": null,
+  "title": null,
+  "file_name": "064-at-taghabun.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1298432,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICmWV1HIXqTrmgRNfyvHl-eQlkKphxAALSBAAC_DKkU3Arxnqz7lEMMwQ",
+  "file_unique_id": "AgAD0gQAAvwypFM",
+  "duration": 361,
+  "performer": null,
+  "title": null,
+  "file_name": "065-at-talaq.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1444880,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICmmV1HIXWNIGMsUnpwrF6VhgnenI0AAL0BAACRu6lUxEECCTKt0M0MwQ",
+  "file_unique_id": "AgAD9AQAAkbupVM",
+  "duration": 372,
+  "performer": null,
+  "title": null,
+  "file_name": "066-at-tahrim.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1488368,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICm2V1HIWDkia5NiaY-5xM0nhivUXrAAKaBAACi9usUzG3MpGO_eggMwQ",
+  "file_unique_id": "AgADmgQAAovbrFM",
+  "duration": 455,
+  "performer": null,
+  "title": null,
+  "file_name": "067-al-mulk.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1822016,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICnGV1HIW1JHsO4NSD9jxM0k4dBBLDAAKdBAACFGWtUzuoBUm1HRvaMwQ",
+  "file_unique_id": "AgADnQQAAhRlrVM",
+  "duration": 456,
+  "performer": null,
+  "title": null,
+  "file_name": "068-al-qalam.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1824608,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICnWV1HIWFj94G8tZKMMlOIWm_DtBmAAL4BAACZ3CtUyVUYt8bvGBRMwQ",
+  "file_unique_id": "AgAD-AQAAmdwrVM",
+  "duration": 405,
+  "performer": null,
+  "title": null,
+  "file_name": "069-al-haqqah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1623872,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICnmV1HIWrK8H8Ww_Zk-6apTlBnhf3AALbBAACccikU-4Fa86xs3OpMwQ",
+  "file_unique_id": "AgAD2wQAAnHIpFM",
+  "duration": 317,
+  "performer": null,
+  "title": null,
+  "file_name": "070-al-maarij.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1271936,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICn2V1HIUnKdKPKIJvMqsphF0FHaBfAAKqBAAC4zWtU03VKyekOGaNMwQ",
+  "file_unique_id": "AgADqgQAAuM1rVM",
+  "duration": 280,
+  "performer": null,
+  "title": null,
+  "file_name": "071-nuh.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1124048,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICoGV1HIXBwqbU9JWGLMNEsyvptur6AAK4BAACXpGtU9CF-fpLuFhNMwQ",
+  "file_unique_id": "AgADuAQAAl6RrVM",
+  "duration": 334,
+  "performer": null,
+  "title": null,
+  "file_name": "072-al-jinn.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1339904,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICoWV1HIUjBZ6NAAHWHMSq2EKqOt9QAwACwgQAAlA0rFNK9DOixTP8pzME",
+  "file_unique_id": "AgADwgQAAlA0rFM",
+  "duration": 244,
+  "performer": null,
+  "title": null,
+  "file_name": "073-al-muzammil.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 976592,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIComV1HIU2Kn5Ni8dHkjo4yvr1YslWAAKLBAACae2sU0lCfLhpeQbLMwQ",
+  "file_unique_id": "AgADiwQAAmntrFM",
+  "duration": 324,
+  "performer": null,
+  "title": null,
+  "file_name": "074-al-muddaththir.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1297856,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICo2V1HIUxKHmfcLe1hhUanAW-kb4HAAKwBAACd1alU_9Gz0S-7wYZMwQ",
+  "file_unique_id": "AgADsAQAAndWpVM",
+  "duration": 211,
+  "performer": null,
+  "title": null,
+  "file_name": "075-al-qiyamah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 847136,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICpGV1HIUb6qZ-KqIRwR6hf7_S0ZwQAAKLBAACG6mlUzTaDn-2siLPMwQ",
+  "file_unique_id": "AgADiwQAAhuppVM",
+  "duration": 315,
+  "performer": null,
+  "title": null,
+  "file_name": "076-al-insan.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1260272,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICpWV1HIWXTzNjivWbLqFfR3JqrQ5oAALxBAACgemlUwsL3UwiPKV-MwQ",
+  "file_unique_id": "AgAD8QQAAoHppVM",
+  "duration": 299,
+  "performer": null,
+  "title": null,
+  "file_name": "077-al-mursalat.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1196912,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICpmV1HIUmZkuZZNCn5PqosC7rCWehAAKqBAACmTWtU3vLC_ChYnYMMwQ",
+  "file_unique_id": "AgADqgQAApk1rVM",
+  "duration": 292,
+  "performer": null,
+  "title": null,
+  "file_name": "078-an-naba.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1169120,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICp2V1HIXNXzTDQXxfwWBPhU091X5aAAMFAAJ6C6xTUBiSjTQZeTAzBA",
+  "file_unique_id": "AgAEBQACegusUw",
+  "duration": 256,
+  "performer": null,
+  "title": null,
+  "file_name": "079-an-naziat.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1025984,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICqGV1HIVi1K9lpokuu67DnJzwrqfTAALFBAACgCWkUwXiyTuyogFXMwQ",
+  "file_unique_id": "AgADxQQAAoAlpFM",
+  "duration": 220,
+  "performer": null,
+  "title": null,
+  "file_name": "080-abasa.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 881984,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICqWV1HIWYNk80_-Z3MdYaeQ5lxyg9AAKLBAAC7m2tU2Wc3TJ5xnVOMwQ",
+  "file_unique_id": "AgADiwQAAu5trVM",
+  "duration": 158,
+  "performer": null,
+  "title": null,
+  "file_name": "081-at-takwir.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 633584,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICqmV1HIXixB3aYwZvh5g91A2XJfW1AAKcBAACk4qkUzQS9_SoSLTNMwQ",
+  "file_unique_id": "AgADnAQAApOKpFM",
+  "duration": 136,
+  "performer": null,
+  "title": null,
+  "file_name": "082-al-infitar.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 547328,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICq2V1HIV9CZ3gyqFy090OClFuQKSCAAKwBAACP8KkU8oi4Rm0kR_hMwQ",
+  "file_unique_id": "AgADsAQAAj_CpFM",
+  "duration": 310,
+  "performer": null,
+  "title": null,
+  "file_name": "083-al-mutaffifin.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 1241408,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICrGV1HIURWZZb6L1KBtsQDM34_Vv7AAJ3BAACYsmkU5-IwP8YZRjzMwQ",
+  "file_unique_id": "AgADdwQAAmLJpFM",
+  "duration": 160,
+  "performer": null,
+  "title": null,
+  "file_name": "084-al-inshiqaq.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 641072,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICrWV1HIVMjNdzLlNeIesR_ZeFojJqAAJ8BAAC-iisU7UT06okvqGUMwQ",
+  "file_unique_id": "AgADfAQAAvoorFM",
+  "duration": 198,
+  "performer": null,
+  "title": null,
+  "file_name": "085-al-buruj.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 792992,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICrmV1HIXIb66U8b8--jARc2nXtpN8AAK8BAACVAysU1MdBn0hCYP5MwQ",
+  "file_unique_id": "AgADvAQAAlQMrFM",
+  "duration": 100,
+  "performer": null,
+  "title": null,
+  "file_name": "086-at-tariq.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 401168,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICr2V1HIUc02xwqRFQeFi2v-vD1_-iAAKfBAACFK2kU-YYi8LMK6FYMwQ",
+  "file_unique_id": "AgADnwQAAhStpFM",
+  "duration": 107,
+  "performer": null,
+  "title": null,
+  "file_name": "087-al-ala.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 431552,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICsGV1HIWIb13ij0X0xrH27H-wjqf0AALPBAACNhmtU7YXIWockQXMMwQ",
+  "file_unique_id": "AgADzwQAAjYZrVM",
+  "duration": 134,
+  "performer": null,
+  "title": null,
+  "file_name": "088-al-ghashiyah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 536960,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICsWV1HIUJm65CNHqmBsqKSeIJCBNzAAK-BAACU8qtU-XnOlOW9ugkMwQ",
+  "file_unique_id": "AgADvgQAAlPKrVM",
+  "duration": 213,
+  "performer": null,
+  "title": null,
+  "file_name": "089-al-fajr.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 852176,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICsmV1HIWQUhr7jJ7g8-7RDbx2EQY0AAKZBAACDI2tU9QxPsSXbOCaMwQ",
+  "file_unique_id": "AgADmQQAAgyNrVM",
+  "duration": 120,
+  "performer": null,
+  "title": null,
+  "file_name": "090-al-balad.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 480368,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICs2V1HIUI-1MxSa1b775U0cj-Ft3bAAK-BAACDFWsUxX0dPon5rapMwQ",
+  "file_unique_id": "AgADvgQAAgxVrFM",
+  "duration": 84,
+  "performer": null,
+  "title": null,
+  "file_name": "091-ash-shams.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 337952,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICtGV1HIW3sH333VSZ0G8csC5rxeoVAALNBAACK9OtUxtS07CVC8QPMwQ",
+  "file_unique_id": "AgADzQQAAivTrVM",
+  "duration": 111,
+  "performer": null,
+  "title": null,
+  "file_name": "092-al-lail.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 446816,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICtWV1HIWa-dRZs9-fTeCK9agnD6aiAAL2BAACMoikU3i88Yd-LSdgMwQ",
+  "file_unique_id": "AgAD9gQAAjKIpFM",
+  "duration": 65,
+  "performer": null,
+  "title": null,
+  "file_name": "093-ad-duha.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 260768,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICtmV1HIVaCNiiGmdsK7RW7BUsDrA9AAKfBAACPDatUwx5ID7zeIXrMwQ",
+  "file_unique_id": "AgADnwQAAjw2rVM",
+  "duration": 43,
+  "performer": null,
+  "title": null,
+  "file_name": "094-ash-sharh.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 172352,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICt2V1HIWSBv3kvaWoGRLKGJY6_NCsAAKvBAACFU6sUxbpdgUZEQ4UMwQ",
+  "file_unique_id": "AgADrwQAAhVOrFM",
+  "duration": 64,
+  "performer": null,
+  "title": null,
+  "file_name": "095-at-tin.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 260048,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICuGV1HIVacGld4M6-aLdig_RC9fJKAAK2BAACkkalU8jRj3c3bHuYMwQ",
+  "file_unique_id": "AgADtgQAApJGpVM",
+  "duration": 95,
+  "performer": null,
+  "title": null,
+  "file_name": "096-al-alaq.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 380864,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICuWV1HIUfiJHzRq2T3QofQ_cPHuOjAAK1BAACBwStU2dNSya_0pI3MwQ",
+  "file_unique_id": "AgADtQQAAgcErVM",
+  "duration": 45,
+  "performer": null,
+  "title": null,
+  "file_name": "097-al-qadr.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 180992,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICumV1HIUNiXz_a4v8BptoWcxHkfH6AAJpBAAC0L6lU61MuXH2wr1PMwQ",
+  "file_unique_id": "AgADaQQAAtC-pVM",
+  "duration": 126,
+  "performer": null,
+  "title": null,
+  "file_name": "098-al-baiyyinah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 506144,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICu2V1HIVPVpBMOytA73cVKTbFkEzhAAJiBAACqeytU7-0PYFmn2HHMwQ",
+  "file_unique_id": "AgADYgQAAqnsrVM",
+  "duration": 60,
+  "performer": null,
+  "title": null,
+  "file_name": "099-az-zalzalah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 240320,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICvGV1HIXiwq0CJCr9RvEoAAFTLv31VgACnAQAAn14rFOaJGif1HuusTME",
+  "file_unique_id": "AgADnAQAAn14rFM",
+  "duration": 70,
+  "performer": null,
+  "title": null,
+  "file_name": "100-al-adiyat.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 280352,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAICz2V1HJEOpftd8d483LPQW2qC4EFTAAK3BAACi_SsUwQ4dFcEvDCyMwQ",
+  "file_unique_id": "AgADtwQAAov0rFM",
+  "duration": 62,
+  "performer": null,
+  "title": null,
+  "file_name": "101-al-qariah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 250544,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC0GV1HJH_SoFtyH_elM1FLuLzvAABSQACsAQAAjwAAaRTbGJQzcI0g7UzBA",
+  "file_unique_id": "AgADsAQAAjwAAaRT",
+  "duration": 62,
+  "performer": null,
+  "title": null,
+  "file_name": "102-at-takathur.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 250688,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC0WV1HJEIvEH1fvdeHlroax3810PJAALrBAACbUKkUyHJ79CDRUWrMwQ",
+  "file_unique_id": "AgAD6wQAAm1CpFM",
+  "duration": 27,
+  "performer": null,
+  "title": null,
+  "file_name": "103-al-asr.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 110000,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC0mV1HJH0GOKbKjJPwAlFdxjLrwVSAAKSBAACWbCsU_Ur_Lu9vORhMwQ",
+  "file_unique_id": "AgADkgQAAlmwrFM",
+  "duration": 58,
+  "performer": null,
+  "title": null,
+  "file_name": "104-al-humazah.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 232400,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC02V1HJG-aFqB7oQ_bfRVMH82-ICgAAIBBQACtWOkU7N1kn4aZHXFMwQ",
+  "file_unique_id": "AgADAQUAArVjpFM",
+  "duration": 48,
+  "performer": null,
+  "title": null,
+  "file_name": "105-al-fil.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 195104,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC1GV1HJHBv71zMMsCqSeKosF2vTkbAALqBAACUUGkU_ColS2NIQ9WMwQ",
+  "file_unique_id": "AgAD6gQAAlFBpFM",
+  "duration": 42,
+  "performer": null,
+  "title": null,
+  "file_name": "106-quraish.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 170480,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC1WV1HJG6zl7Z8DhaF5fuJffzGzS1AAKnBAAC-zikU9TlZqT96kiTMwQ",
+  "file_unique_id": "AgADpwQAAvs4pFM",
+  "duration": 57,
+  "performer": null,
+  "title": null,
+  "file_name": "107-al-maun.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 230528,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC1mV1HJEbZRzkw_4scveRe9K_CxAbAAKYBAAChfmtUzlYmU8tBF5nMwQ",
+  "file_unique_id": "AgADmAQAAoX5rVM",
+  "duration": 24,
+  "performer": null,
+  "title": null,
+  "file_name": "108-al-kauthar.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 98336,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC12V1HJFkENQm27qpklTGaOY1u16CAALXBAACkZysUw6Ka3x5VD7RMwQ",
+  "file_unique_id": "AgAD1wQAApGcrFM",
+  "duration": 54,
+  "performer": null,
+  "title": null,
+  "file_name": "109-al-kafirun.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 217424,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC2GV1HJEF9yodV3YQV82MJlBHDkWsAAJ2BAAC372lU3DhpsG-WJE3MwQ",
+  "file_unique_id": "AgADdgQAAt-9pVM",
+  "duration": 34,
+  "performer": null,
+  "title": null,
+  "file_name": "110-an-nasr.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 140096,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC2WV1HJFetjsXEpIt5D_iogABJkulWwACywQAAnNmpVM1pxRGK3RSUjME",
+  "file_unique_id": "AgADywQAAnNmpVM",
+  "duration": 41,
+  "performer": null,
+  "title": null,
+  "file_name": "111-al-masad.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 166592,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC2mV1HJFSA_jVnUkqj8Jvwzioh4vKAALRBAAC7_utU5da7GE5luZkMwQ",
+  "file_unique_id": "AgAD0QQAAu_7rVM",
+  "duration": 21,
+  "performer": null,
+  "title": null,
+  "file_name": "112-al-ikhlas.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 87104,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC22V1HJF5ayYTHwoG5mJF9VT8FcVjAALoBAAC51-kUxk9a7chzallMwQ",
+  "file_unique_id": "AgAD6AQAAudfpFM",
+  "duration": 33,
+  "performer": null,
+  "title": null,
+  "file_name": "113-al-falaq.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 132608,
+  "source": "https://itsolutionctg.com/quran/"
+}
+
+,{
+  "file_id": "CQACAgQAAxkBAAIC3GV1HJG-1TL3BXNKD2tqhVtSBfytAAKzBAADZq1T-IM4zkfiMRgzBA",
+  "file_unique_id": "AgADswQAA2atUw",
+  "duration": 50,
+  "performer": null,
+  "title": null,
+  "file_name": "114-an-nas.mp3",
+  "mime_type": "audio/mpeg",
+  "file_size": 200432,
+  "source": "https://itsolutionctg.com/quran/"
+}
+  ]
